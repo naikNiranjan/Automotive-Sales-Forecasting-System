@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+statsmodels
+seaborn
+matplotlib
+prophet
+xgboost
+chardet
+shap
+google-generativeai
